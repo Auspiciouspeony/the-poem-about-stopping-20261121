@@ -15,9 +15,9 @@ const OUTPUT_DIR = process.env.MAKEFUN_OUTPUT_DIR ?? '/output';
 
 // "The Stop" — an original poem about agency: the power to stop and to stay.
 // Halfway through saying yes, the speaker stops — not a door slamming, but
-// a hand, mid-air, choosing the rail instead. Staying is the act: the room
-// stays, the yes stays unspoken, and what was almost given away stays mine.
-// Stopping is how the power to act proves it was yours.
+// a hand, mid-air, choosing the banister instead. Staying is the act: the
+// room stays, the yes stays unspoken, and what was almost given away stays
+// mine. Stopping is how the power to act proves it was yours.
 const POEM = [
   'The Stop',
   '',
@@ -26,7 +26,7 @@ const POEM = [
   '',
   'Not a door slamming shut —',
   'a hand, mid-air,',
-  'choosing the rail instead.',
+  'choosing the banister instead.',
   '',
   'I stayed.',
   'The room stayed.',
